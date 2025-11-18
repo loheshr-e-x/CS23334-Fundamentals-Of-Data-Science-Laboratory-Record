@@ -1,1 +1,7 @@
+Highlights
+• 	Hands‑on notebooks for data visualization and EDA using Matplotlib, Seaborn, and Plotly.
+• 	Preprocessing utilities: missing value handling, outlier detection and treatment, feature scaling, encoding.
+• 	Machine learning baselines: Linear Regression, Logistic Regression, K-Nearest Neighbors, K-Means clustering.
+• 	Statistical tests: t-test, z-test, and ANOVA (F-test) with interpretation notes.
+• 	Reproducible examples with toy datasets and clear, commented code for teaching and reference.
 
